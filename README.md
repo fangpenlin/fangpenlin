@@ -25,3 +25,7 @@ My name is Fang-Pen Lin. I am a one-person-army software engineer. I learn new t
 
 - [CVE-2019-13132](https://nvd.nist.gov/vuln/detail/CVE-2019-13132) - Critical (9.8/10) buffer overflow security bug I found in [libzmq](https://github.com/zeromq/libzmq) and [reported](https://github.com/zeromq/libzmq/issues/3558)
 - [Elliptic Curve Cryptography Explained](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/) - Article I wrote explaining how ECC works in a simple way
+
+## Data
+
+- [BeanQueue](https://github.com/LaunchPlatform/bq), Python/PostgreSQL - a lightweight Python task queue framework based on SQLAlchemy, PostgreSQL SKIP LOCKED queries and NOTIFY / LISTEN statements
