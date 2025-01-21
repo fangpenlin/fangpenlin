@@ -4,6 +4,8 @@ My name is Fang-Pen Lin. I am a one-person-army software engineer. I learn new t
 
 ![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=fangpenlin)
 
+Examples of some stuff some of my works in different fields:
+
 ## Front-end
 
 - [Avataaars generator](https://getavataaars.com/), React/TypeScript - One of the most popular avatar generators on internet. [Open sourced here](https://github.com/fangpenlin/avataaars-generator)
