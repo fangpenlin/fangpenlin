@@ -6,6 +6,9 @@ My name is Fang-Pen Lin. I am a one-person-army software engineer. I learn new t
 
 Examples of some stuff some of my works in different fields:
 
+## Machine Learning
+- [MAZE](https://fangpenlin.com/posts/2025/02/06/maze-how-i-would-build-agi/), a machine learning framework for evolving gene based neuron networks in a series of controlled environments
+
 ## Front-end
 
 - [Avataaars generator](https://getavataaars.com/), React/TypeScript - One of the most popular avatar generators on internet. [Open sourced here](https://github.com/fangpenlin/avataaars-generator)
@@ -31,3 +34,4 @@ Examples of some stuff some of my works in different fields:
 ## Data
 
 - [BeanQueue](https://github.com/LaunchPlatform/bq), Python/PostgreSQL - a lightweight Python task queue framework based on SQLAlchemy, PostgreSQL SKIP LOCKED queries and NOTIFY / LISTEN statements
+
