@@ -7,7 +7,7 @@ My name is Fang-Pen Lin. I am a one-person-army software engineer. I learn new t
 Examples of some stuff some of my works in different fields:
 
 ## Machine Learning
-- [MAZE](https://fangpenlin.com/posts/2025/02/06/maze-how-i-would-build-agi/), a machine learning framework for evolving gene based neuron networks in a series of controlled environments
+- [MAZE](https://fangpenlin.com/posts/2025/02/06/maze-how-i-would-build-agi/), an [open-source](https://github.com/LaunchPlatform/maze) machine learning framework for evolving gene based neuron networks in a series of controlled environments
 
 ## Front-end
 
