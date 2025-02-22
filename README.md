@@ -8,8 +8,8 @@ Examples of some stuff some of my works in different fields:
 
 ## Machine Learning
 - [MAZE](https://github.com/LaunchPlatform/maze), an open-source machine learning framework for evolving gene based neuron networks in a series of controlled environments. Please read my articles:
-  - [Article00 - MAZE - How I would build AGI](https://fangpenlin.com/posts/2025/02/06/maze-how-i-would-build-agi/)
-
+  - [Article00 - How I would build AGI](https://fangpenlin.com/posts/2025/02/06/maze-how-i-would-build-agi/)
+  - [Article01 - My AI models are finally evolving!](https://fangpenlin.com/posts/2025/02/18/maze-my-ai-models-are-finally-evolving/)
 ## Front-end
 
 - [Avataaars generator](https://getavataaars.com/), React/TypeScript - One of the most popular avatar generators on internet. [Open sourced here](https://github.com/fangpenlin/avataaars-generator)
