@@ -27,6 +27,7 @@ Examples of some stuff some of my works in different fields:
 
 - [nix-playground](https://github.com/LaunchPlatform/nix-playground) - Command line tools for patching nixpkgs package source code easily
 - [ansible - omit](https://github.com/ansible/ansible/pull/8323), Python - I contributed the `omit` feature for [ansible](https://www.ansible.com)
+- [Nvidia GPU on bare metal NixOS Kubernetes cluster explained](https://fangpenlin.com/posts/2025/03/01/nvidia-gpu-on-bare-metal-nixos-k8s-explained/)
 - [Mini PC Kubernetes cluster](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/), [Cilium](https://cilium.io/)/[Nebula](https://github.com/slackhq/nebula)/[Kubernetes](https://kubernetes.io/)/[NixOS](https://nixos.org/) - Bare metal Kubernetes cluster I built and run for lowering my cloud bill
 
 ## Security
