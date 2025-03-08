@@ -16,6 +16,7 @@ Examples of some stuff some of my works in different fields:
 
 ## Back-end
 
+- [How BeanHub works part2, large-scale auditable Git repository system based on container layers](https://beanhub.io/blog/2024/06/26/how-beanhub-works-part2-layer-based-git-repos/)
 - [BeanHub](https://beanhub.io) Python - A GitHub for [Beancount](https://beancount.github.io/)
 
 ## Mobile
@@ -30,6 +31,7 @@ Examples of some stuff some of my works in different fields:
 
 ## Security
 
+- [How BeanHub works part1, contains the danger of processing Beancount data with sandbox](https://beanhub.io/blog/2024/04/23/how-beanhub-works-part1-sandboxing/)
 - [CVE-2019-13132](https://nvd.nist.gov/vuln/detail/CVE-2019-13132) - Critical (9.8/10) buffer overflow security bug I found in [libzmq](https://github.com/zeromq/libzmq) and [reported](https://github.com/zeromq/libzmq/issues/3558)
 - [Elliptic Curve Cryptography Explained](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/) - Article I wrote explaining how ECC works in a simple way
 
