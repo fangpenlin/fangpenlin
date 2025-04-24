@@ -13,7 +13,8 @@ Examples of some stuff some of my works in different fields:
 ## Front-end
 
 - [Avataaars generator](https://getavataaars.com/), React/TypeScript - One of the most popular avatar generators on internet. [Open sourced here](https://github.com/fangpenlin/avataaars-generator)
-
+- [Open Doddles](https://generator.opendoodles.com/), React/TypeScript - Doddles generator
+ 
 ## Back-end
 
 - [How BeanHub works part2, large-scale auditable Git repository system based on container layers](https://beanhub.io/blog/2024/06/26/how-beanhub-works-part2-layer-based-git-repos/)
