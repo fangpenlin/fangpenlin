@@ -10,6 +10,7 @@ Examples of some stuff some of my works in different fields:
 - [MAZE](https://github.com/LaunchPlatform/maze), an open-source machine learning framework for evolving gene based neuron networks in a series of controlled environments. Please read my articles:
   - [Article00 - How I would build AGI](https://fangpenlin.com/posts/2025/02/06/maze-how-i-would-build-agi/)
   - [Article01 - My AI models are finally evolving!](https://fangpenlin.com/posts/2025/02/18/maze-my-ai-models-are-finally-evolving/)
+- [CakeLens](https://fangpenlin.com/posts/2025/06/03/i-built-ai-gen-video-detection-model-and-browser-extension-in-a-month/), a ML model for detecting AI-gen video. I collected and labeled data, designed and built the mode, trained, and inferenced it from end-to-end in a month. 
 ## Front-end
 
 - [Avataaars generator](https://getavataaars.com/), React/TypeScript - One of the most popular avatar generators on internet. [Open sourced here](https://github.com/fangpenlin/avataaars-generator)
