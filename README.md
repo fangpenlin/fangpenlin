@@ -13,6 +13,7 @@ Examples of some stuff some of my works in different fields:
 - [CakeLens](https://fangpenlin.com/posts/2025/06/03/i-built-ai-gen-video-detection-model-and-browser-extension-in-a-month/), a ML model for detecting AI-gen video. I collected and labeled data, designed and built the mode, trained, and inferenced it from end-to-end in a month.
 - [Tinyloader](https://github.com/LaunchPlatform/tinyloader), training data loader for loading data in background processes via shared memory to [tinygrad](https://github.com/tinygrad/tinygrad/)
 - [tinygrad](https://github.com/tinygrad/tinygrad/), contributed to tinygrad, like [pos_weight for binary_crossentropy_logits](https://github.com/tinygrad/tinygrad/pull/10855) and [fixed a VIZ bug](https://github.com/tinygrad/tinygrad/pull/10624)
+- [Marketplace](https://fangpenlin.com/posts/2025/08/18/marketplace-my-first-attempt-at-training-without-backprop-on-gpu-efficiently/), training without backprop. Open sourced [here](https://github.com/LaunchPlatform/marketplace)
 
 ## Front-end
 
