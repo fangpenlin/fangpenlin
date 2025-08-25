@@ -7,13 +7,13 @@ My name is Fang-Pen Lin. I am a one-person-army software engineer. I learn new t
 Examples of some stuff some of my works in different fields:
 
 ## Machine Learning
+- [Marketplace](https://fangpenlin.com/posts/2025/08/18/marketplace-my-first-attempt-at-training-without-backprop-on-gpu-efficiently/), training without backprop. Open sourced [here](https://github.com/LaunchPlatform/marketplace)
 - [MAZE](https://github.com/LaunchPlatform/maze), an open-source machine learning framework for evolving gene based neuron networks in a series of controlled environments. Please read my articles:
   - [Article00 - How I would build AGI](https://fangpenlin.com/posts/2025/02/06/maze-how-i-would-build-agi/)
   - [Article01 - My AI models are finally evolving!](https://fangpenlin.com/posts/2025/02/18/maze-my-ai-models-are-finally-evolving/)
 - [CakeLens](https://fangpenlin.com/posts/2025/06/03/i-built-ai-gen-video-detection-model-and-browser-extension-in-a-month/), a ML model for detecting AI-gen video. I collected and labeled data, designed and built the mode, trained, and inferenced it from end-to-end in a month.
 - [Tinyloader](https://github.com/LaunchPlatform/tinyloader), training data loader for loading data in background processes via shared memory to [tinygrad](https://github.com/tinygrad/tinygrad/)
 - [tinygrad](https://github.com/tinygrad/tinygrad/), contributed to tinygrad, like [pos_weight for binary_crossentropy_logits](https://github.com/tinygrad/tinygrad/pull/10855) and [fixed a VIZ bug](https://github.com/tinygrad/tinygrad/pull/10624)
-- [Marketplace](https://fangpenlin.com/posts/2025/08/18/marketplace-my-first-attempt-at-training-without-backprop-on-gpu-efficiently/), training without backprop. Open sourced [here](https://github.com/LaunchPlatform/marketplace)
 
 ## Front-end
 
