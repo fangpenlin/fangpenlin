@@ -7,7 +7,9 @@ My name is Fang-Pen Lin. I am a one-person-army software engineer. I learn new t
 Examples of some stuff some of my works in different fields:
 
 ## Machine Learning
-- [Marketplace](https://fangpenlin.com/posts/2025/08/18/marketplace-my-first-attempt-at-training-without-backprop-on-gpu-efficiently/), training without backprop. Open sourced [here](https://github.com/LaunchPlatform/marketplace)
+- [Marketplace](https://github.com/LaunchPlatform/marketplace), a training algorithm without backprop.
+  - [Marketplace: my first attempt at training without backprop on GPU efficiently](https://fangpenlin.com/posts/2025/08/18/marketplace-my-first-attempt-at-training-without-backprop-on-gpu-efficiently/)
+  - [Marketplace V2 is all you need: A training algorithm on par with backprop that needs only forward pass](https://fangpenlin.com/posts/2025/09/02/marketplace-v2-is-all-you-need-a-training-algorithm-on-par-with-backprop/)
 - [MAZE](https://github.com/LaunchPlatform/maze), an open-source machine learning framework for evolving gene based neuron networks in a series of controlled environments. Please read my articles:
   - [Article00 - How I would build AGI](https://fangpenlin.com/posts/2025/02/06/maze-how-i-would-build-agi/)
   - [Article01 - My AI models are finally evolving!](https://fangpenlin.com/posts/2025/02/18/maze-my-ai-models-are-finally-evolving/)
