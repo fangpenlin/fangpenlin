@@ -49,3 +49,6 @@ Examples of some stuff some of my works in different fields:
 
 - [BeanQueue](https://github.com/LaunchPlatform/bq), Python/PostgreSQL - a lightweight Python task queue framework based on SQLAlchemy, PostgreSQL SKIP LOCKED queries and NOTIFY / LISTEN statements
 
+## CAD design and 3D printing
+
+- [TinyRack](https://tinyrack.io) - A 3D printable open-source modular mini server rack
