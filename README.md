@@ -51,4 +51,5 @@ Examples of some stuff some of my works in different fields:
 
 ## CAD design and 3D printing
 
+- [MakerRepo](https://makerrepo.com) - A Git repository hosting service for [Build123d](https://github.com/gumyr/build123d) based CAD model projects, which provides web-based generator, CI and many cool features
 - [TinyRack](https://tinyrack.io) - A 3D printable open-source modular mini server rack
