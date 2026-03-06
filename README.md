@@ -2,7 +2,7 @@
 
 My name is Fang-Pen Lin. I am a one-person-army software engineer. I learn new things quickly, focus on solving the problem, and can leverage different available open source tools to build different ends of software products in a vast range of aspects: mobile to web, client to server, single node to cluster, development to devops, prototype to production and user experience to security. I contribute to open source sometimes. Also write some articles.
 
-![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=fangpenlin)
+![Stats](./profile/stats.svg)
 
 Examples of some stuff some of my works in different fields:
 
