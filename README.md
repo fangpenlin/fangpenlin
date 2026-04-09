@@ -18,6 +18,11 @@ Examples of some stuff some of my works in different fields:
 - [Tinyloader](https://github.com/LaunchPlatform/tinyloader), training data loader for loading data in background processes via shared memory to [tinygrad](https://github.com/tinygrad/tinygrad/)
 - [tinygrad](https://github.com/tinygrad/tinygrad/), contributed to tinygrad, like [pos_weight for binary_crossentropy_logits](https://github.com/tinygrad/tinygrad/pull/10855) and [fixed a VIZ bug](https://github.com/tinygrad/tinygrad/pull/10624)
 
+## CAD design and 3D printing
+
+- [MakerRepo](https://makerrepo.com) - A Git repository hosting service for [Build123d](https://github.com/gumyr/build123d) based CAD model projects, which provides web-based generator, CI and many cool features
+- [TinyRack](https://tinyrack.io) - A 3D printable open-source modular mini server rack. [Open-sourced on MakerRepo](https://makerrepo.com/r/fangpenlin/tinyrack/)
+
 ## Front-end
 
 - [Avataaars generator](https://getavataaars.com/), React/TypeScript - One of the most popular avatar generators on internet. [Open sourced here](https://github.com/fangpenlin/avataaars-generator)
@@ -49,7 +54,3 @@ Examples of some stuff some of my works in different fields:
 
 - [BeanQueue](https://github.com/LaunchPlatform/bq), Python/PostgreSQL - a lightweight Python task queue framework based on SQLAlchemy, PostgreSQL SKIP LOCKED queries and NOTIFY / LISTEN statements
 
-## CAD design and 3D printing
-
-- [MakerRepo](https://makerrepo.com) - A Git repository hosting service for [Build123d](https://github.com/gumyr/build123d) based CAD model projects, which provides web-based generator, CI and many cool features
-- [TinyRack](https://tinyrack.io) - A 3D printable open-source modular mini server rack
