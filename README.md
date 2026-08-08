@@ -53,4 +53,3 @@ Examples of some stuff some of my works in different fields:
 ## Data
 
 - [BeanQueue](https://github.com/LaunchPlatform/bq), Python/PostgreSQL - a lightweight Python task queue framework based on SQLAlchemy, PostgreSQL SKIP LOCKED queries and NOTIFY / LISTEN statements
-
