@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Fang-Pen Lin&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 4333, Total Commits  (last year) : 1373, Total PRs: 397, Total Issues: 175, Contributed to (last year): 30</desc>
+        <desc id="descId">Total Stars Earned: 4332, Total Commits  (last year) : 1373, Total PRs: 397, Total Issues: 175, Contributed to (last year): 30</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 2.6219315968017645;
+        stroke-dashoffset: 2.6221496913278126;
       }
     }
   
